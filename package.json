@@ -1,0 +1,32 @@
+{
+  "name": "nextjs-learning",
+  "version": "1.0.0",
+  "description": "Learning nextjs for React server side rendering",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "sudo next",
+    "build": "sudo next build",
+    "start": "sudo next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahsankhan1911/nextjs-learning.git"
+  },
+  "keywords": [
+    "nextjs",
+    "next.js"
+  ],
+  "author": "Ahsan Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahsankhan1911/nextjs-learning/issues"
+  },
+  "homepage": "https://github.com/ahsankhan1911/nextjs-learning#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "next": "^8.0.3",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3"
+  }
+}
